@@ -2,7 +2,7 @@
     font-family: 'RH-Zak';
     src: url('RHZak-Thin.woff') format('woff2'),
         url('RHZak-Thin.woff2') format('woff');
-    font-weight: 100;
+    font-weight: 1000;
     font-style: normal;
     font-display: swap;
 }
